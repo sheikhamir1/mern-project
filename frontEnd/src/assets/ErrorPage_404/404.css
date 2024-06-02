@@ -1,0 +1,24 @@
+/* Custom CSS for the 404 page */
+/* body {
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: #ffffff;
+  } */
+
+.ErrorHeading {
+  font-weight: bold;
+  color: #ff4757;
+}
+
+.ErrorText {
+  color: #000000;
+}
+
+.btn-primary {
+  background-color: #3742fa;
+  border-color: #3742fa;
+}
+
+.btn-primary:hover {
+  background-color: #5352ed;
+  border-color: #5352ed;
+}

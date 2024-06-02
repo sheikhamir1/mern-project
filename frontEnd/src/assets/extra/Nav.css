@@ -1,0 +1,9 @@
+.bg-body-tertiary {
+  background-color: #a693d1 !important;
+}
+.nav-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: aliceblue;
+  padding: 0px;
+}

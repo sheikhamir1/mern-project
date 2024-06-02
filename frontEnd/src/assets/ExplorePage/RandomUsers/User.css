@@ -1,0 +1,16 @@
+.setUpBtnUser {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.cardHeading {
+  width: 18rem;
+  margin: 20px 0px 0px 10px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 430px) {
+  .card {
+    width: 100%;
+    margin: 20px 0px;
+  }
+}

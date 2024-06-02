@@ -1,0 +1,14 @@
+.sign_main {
+  display: flex;
+  justify-content: center;
+  /* height: 100vh; */
+  align-items: center;
+  margin-top: 30px;
+}
+.signFormSetup {
+  width: 85%;
+  max-width: 600px;
+}
+.text-muted {
+  font-weight: bold;
+}
